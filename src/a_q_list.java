@@ -11,7 +11,7 @@ public class a_q_list {
     * https://leetcode.com/problems/find-all-duplicates-in-an-array/description/
     *  Find the Duplicate Number (Medium)
     *  667. Beautiful Arrangement II (Medium)
-    *  207. Course Schedule (Medium)
+    *
     *  并查集684. Redundant Connection (Medium)
     *
     * */
