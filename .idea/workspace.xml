@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bf95be7-5f12-4185-88bd-0dc1066a7902" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Non_overlapping_Intervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/House_Robber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Median_of_Two_Sorted_Arrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_alg/EqualExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_alg/EqualExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Next_Greater_Element_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Next_Greater_Element_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/a_q_list.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_q_list.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -19,36 +18,36 @@
     <session id="297923472">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="14" />
-          <entry key="project.open.time.1" value="9" />
+          <entry key="project.closed" value="17" />
+          <entry key="project.open.time.1" value="10" />
           <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.2" value="4" />
+          <entry key="project.open.time.2" value="6" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="15" />
+          <entry key="project.opened" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="40" />
+          <entry key="java" value="45" />
           <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="40" />
+          <entry key="JAVA" value="45" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="5" />
-          <entry key="java" value="7520" />
+          <entry key="java" value="9477" />
           <entry key="txt" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="7520" />
+          <entry key="JAVA" value="9477" />
           <entry key="PLAIN_TEXT" value="16" />
         </counts>
       </usages-collector>
@@ -57,22 +56,61 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/WordBreak.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/a_q_list.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            <state relative-caret-position="455">
+              <caret line="50" column="35" selection-start-line="50" selection-start-column="35" selection-end-line="50" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/House_Robber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+              <folding>
+                <element signature="e#822#841#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Non_overlapping_Intervals.java">
+        <entry file="file://$PROJECT_DIR$/src/Median_of_Two_Sorted_Arrays.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+            <state relative-caret-position="90">
+              <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Course_Schedule.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="26" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Non_overlapping_Intervals.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="17" selection-start-column="17" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -98,7 +136,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Next_Greater_Element_2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
+            <state relative-caret-position="558">
               <caret line="31" column="22" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="31" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -161,8 +199,11 @@
         <option value="$PROJECT_DIR$/src/Reverse_Linked_List.java" />
         <option value="$PROJECT_DIR$/src/Daily_Temperatures.java" />
         <option value="$PROJECT_DIR$/src/Next_Greater_Element_2.java" />
-        <option value="$PROJECT_DIR$/src/a_q_list.java" />
         <option value="$PROJECT_DIR$/src/Non_overlapping_Intervals.java" />
+        <option value="$PROJECT_DIR$/src/Course_Schedule.java" />
+        <option value="$PROJECT_DIR$/src/House_Robber.java" />
+        <option value="$PROJECT_DIR$/src/Median_of_Two_Sorted_Arrays.java" />
+        <option value="$PROJECT_DIR$/src/a_q_list.java" />
       </list>
     </option>
   </component>
@@ -176,6 +217,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -192,7 +234,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -208,7 +249,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Next_Greater_Element_2">
+  <component name="RunManager" selected="Application.Median_of_Two_Sorted_Arrays">
+    <configuration name="Course_Schedule" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course_Schedule" />
+      <module name="LeetCode_alg" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Daily_Temperatures" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Daily_Temperatures" />
       <module name="LeetCode_alg" />
@@ -216,8 +264,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EqualExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EqualExample" />
+    <configuration name="House_Robber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="House_Robber" />
+      <module name="LeetCode_alg" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Median_of_Two_Sorted_Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Median_of_Two_Sorted_Arrays" />
       <module name="LeetCode_alg" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -230,34 +285,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sell_Stock_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sell_Stock_3" />
-      <module name="LeetCode_alg" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WordBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WordBreak" />
-      <module name="LeetCode_alg" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.WordBreak" />
-      <item itemvalue="Application.Sell_Stock_3" />
-      <item itemvalue="Application.EqualExample" />
       <item itemvalue="Application.Daily_Temperatures" />
       <item itemvalue="Application.Next_Greater_Element_2" />
+      <item itemvalue="Application.Course_Schedule" />
+      <item itemvalue="Application.House_Robber" />
+      <item itemvalue="Application.Median_of_Two_Sorted_Arrays" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Median_of_Two_Sorted_Arrays" />
+        <item itemvalue="Application.House_Robber" />
+        <item itemvalue="Application.Course_Schedule" />
         <item itemvalue="Application.Next_Greater_Element_2" />
         <item itemvalue="Application.Daily_Temperatures" />
-        <item itemvalue="Application.EqualExample" />
-        <item itemvalue="Application.Sell_Stock_3" />
-        <item itemvalue="Application.WordBreak" />
       </list>
     </recent_temporary>
   </component>
@@ -279,20 +320,33 @@
       <option name="project" value="LOCAL" />
       <updated>1545911318698</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="435. Non-overlapping Intervals (Medium)">
+      <created>1546433346791</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1546433346791</updated>
+    </task>
+    <task id="LOCAL-00003" summary="//207. Course Schedule">
+      <created>1546435994631</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1546435994631</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24177396" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25250357" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3110285" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3110285" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39900866" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -313,20 +367,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value=" 503  and 739. Daily Temperatures (Medium)" />
-    <option name="LAST_COMMIT_MESSAGE" value=" 503  and 739. Daily Temperatures (Medium)" />
+    <MESSAGE value="435. Non-overlapping Intervals (Medium)" />
+    <MESSAGE value="//207. Course Schedule" />
+    <option name="LAST_COMMIT_MESSAGE" value="//207. Course Schedule" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Permutation_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -461,13 +510,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/WordBreak.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Package_3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -496,6 +538,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Permutation_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="28" column="13" selection-start-line="24" selection-start-column="8" selection-end-line="46" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Course_Schedule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Non_overlapping_Intervals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
@@ -512,7 +578,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Next_Greater_Element_2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
+        <state relative-caret-position="558">
           <caret line="31" column="22" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="31" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -527,20 +593,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/a_q_list.java">
+    <entry file="file://$PROJECT_DIR$/src/WordBreak.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="252">
+          <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Non_overlapping_Intervals.java">
+    <entry file="file://$PROJECT_DIR$/src/House_Robber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+        <state relative-caret-position="156">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#822#841#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/a_q_list.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="50" column="35" selection-start-line="50" selection-start-column="35" selection-end-line="50" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Median_of_Two_Sorted_Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
         </state>
       </provider>
     </entry>
