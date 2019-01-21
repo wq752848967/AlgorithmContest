@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bf95be7-5f12-4185-88bd-0dc1066a7902" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Merge_Intervals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a_3Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Alien_Dictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dfs/Letter_Combinations_of_Phone_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/LetAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logic/Next_Closest_Time.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logic/Next_Permutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/productExceptSelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/removeInvalidParentheses.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Median_of_Two_Sorted_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Median_of_Two_Sorted_Arrays.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,36 +22,36 @@
     <session id="297923472">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="19" />
+          <entry key="project.closed" value="22" />
           <entry key="project.open.time.1" value="10" />
           <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.2" value="6" />
-          <entry key="project.open.time.3" value="2" />
-          <entry key="project.opened" value="19" />
+          <entry key="project.open.time.2" value="9" />
+          <entry key="project.open.time.3" value="3" />
+          <entry key="project.opened" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="48" />
+          <entry key="java" value="58" />
           <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="48" />
+          <entry key="JAVA" value="58" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="5" />
-          <entry key="java" value="10784" />
+          <entry key="java" value="13907" />
           <entry key="txt" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="10784" />
+          <entry key="JAVA" value="13907" />
           <entry key="PLAIN_TEXT" value="16" />
         </counts>
       </usages-collector>
@@ -56,100 +60,33 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/a_q_list.java">
+        <entry file="file://$PROJECT_DIR$/src/logic/Next_Closest_Time.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="900">
-              <caret line="50" column="35" selection-start-line="50" selection-start-column="35" selection-end-line="50" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/House_Robber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Median_of_Two_Sorted_Arrays.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MergeSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="558">
-              <caret line="31" column="34" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Merge_Intervals.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="59">
-              <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="29" />
+            <state relative-caret-position="936">
+              <caret line="52" column="47" selection-start-line="52" selection-start-column="47" selection-end-line="52" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#141#142#0" expanded="true" />
+                <element signature="e#201#202#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Alien_Dictionary.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="316">
+              <caret line="83" column="14" selection-start-line="83" selection-start-column="14" selection-end-line="83" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/a_3Sum.java">
+        <entry file="file://$PROJECT_DIR$/src/logic/Next_Permutation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Daily_Temperatures.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="9" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="7" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Next_Greater_Element_2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="558">
-              <caret line="31" column="22" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="31" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Reverse_Linked_List.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+            <state relative-caret-position="257">
+              <caret line="44" column="7" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -166,6 +103,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>equ</find>
+      <find>link</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -206,6 +144,14 @@
         <option value="$PROJECT_DIR$/src/Median_of_Two_Sorted_Arrays.java" />
         <option value="$PROJECT_DIR$/src/Merge_Intervals.java" />
         <option value="$PROJECT_DIR$/src/a_3Sum.java" />
+        <option value="$PROJECT_DIR$/src/removeInvalidParentheses.java" />
+        <option value="$PROJECT_DIR$/src/productExceptSelf.java" />
+        <option value="$PROJECT_DIR$/src/Alien_Dictionary.java" />
+        <option value="$PROJECT_DIR$/src/Letter_Combinations_of_Phone_Number.java" />
+        <option value="$PROJECT_DIR$/src/lib/LetAlgorithm.java" />
+        <option value="$PROJECT_DIR$/src/dfs/Letter_Combinations_of_Phone_Number.java" />
+        <option value="$PROJECT_DIR$/src/logic/Next_Closest_Time.java" />
+        <option value="$PROJECT_DIR$/src/logic/Next_Permutation.java" />
       </list>
     </option>
   </component>
@@ -219,7 +165,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -232,11 +177,18 @@
               <item name="LeetCode_alg" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="LeetCode_alg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode_alg" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="logic" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -251,56 +203,74 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.a_3Sum">
-    <configuration name="Course_Schedule" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course_Schedule" />
+  <component name="RunManager" selected="Application.Next_Permutation">
+    <configuration name="Alien_Dictionary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Alien_Dictionary" />
       <module name="LeetCode_alg" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="House_Robber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="House_Robber" />
+    <configuration name="Letter_Combinations_of_Phone_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dfs.Letter_Combinations_of_Phone_Number" />
       <module name="LeetCode_alg" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dfs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Median_of_Two_Sorted_Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Median_of_Two_Sorted_Arrays" />
+    <configuration name="Next_Closest_Time" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="logic.Next_Closest_Time" />
       <module name="LeetCode_alg" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="logic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Next_Greater_Element_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Next_Greater_Element_2" />
+    <configuration name="Next_Permutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="logic.Next_Permutation" />
       <module name="LeetCode_alg" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="logic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="a_3Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a_3Sum" />
+    <configuration name="productExceptSelf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="productExceptSelf" />
       <module name="LeetCode_alg" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Next_Greater_Element_2" />
-      <item itemvalue="Application.Course_Schedule" />
-      <item itemvalue="Application.House_Robber" />
-      <item itemvalue="Application.Median_of_Two_Sorted_Arrays" />
-      <item itemvalue="Application.a_3Sum" />
+      <item itemvalue="Application.productExceptSelf" />
+      <item itemvalue="Application.Alien_Dictionary" />
+      <item itemvalue="Application.Letter_Combinations_of_Phone_Number" />
+      <item itemvalue="Application.Next_Closest_Time" />
+      <item itemvalue="Application.Next_Permutation" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.a_3Sum" />
-        <item itemvalue="Application.Median_of_Two_Sorted_Arrays" />
-        <item itemvalue="Application.House_Robber" />
-        <item itemvalue="Application.Course_Schedule" />
-        <item itemvalue="Application.Next_Greater_Element_2" />
+        <item itemvalue="Application.Next_Permutation" />
+        <item itemvalue="Application.Next_Closest_Time" />
+        <item itemvalue="Application.Letter_Combinations_of_Phone_Number" />
+        <item itemvalue="Application.Alien_Dictionary" />
+        <item itemvalue="Application.productExceptSelf" />
       </list>
     </recent_temporary>
   </component>
@@ -343,20 +313,27 @@
       <option name="project" value="LOCAL" />
       <updated>1547124408965</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Median_of_Two_Sorted_Arrays">
+      <created>1547430317151</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1547430317151</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25608012" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.26680973" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3110285" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3110285" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39900866" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -379,7 +356,8 @@
     <MESSAGE value=" 503  and 739. Daily Temperatures (Medium)" />
     <MESSAGE value="435. Non-overlapping Intervals (Medium)" />
     <MESSAGE value="//207. Course Schedule" />
-    <option name="LAST_COMMIT_MESSAGE" value="//207. Course Schedule" />
+    <MESSAGE value="Median_of_Two_Sorted_Arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="Median_of_Two_Sorted_Arrays" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/QuickSort.java">
@@ -414,10 +392,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2052">
           <caret line="137" column="66" selection-start-line="137" selection-start-column="66" selection-end-line="137" selection-end-column="66" />
-          <folding>
-            <element signature="e#5748#5749#0" expanded="true" />
-            <element signature="e#5784#5785#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -464,10 +438,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-          <folding>
-            <element signature="e#94#95#0" expanded="true" />
-            <element signature="e#162#163#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -585,8 +555,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Median_of_Two_Sorted_Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        <state relative-caret-position="36">
+          <caret line="2" column="40" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/removeInvalidParentheses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="65" column="9" selection-start-line="65" selection-start-column="9" selection-end-line="65" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/productExceptSelf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="31" column="22" selection-start-line="6" selection-start-column="8" selection-end-line="31" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -594,6 +578,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="558">
           <caret line="31" column="34" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Merge_Intervals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -613,7 +607,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Next_Greater_Element_2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
+        <state relative-caret-position="540">
           <caret line="31" column="22" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="31" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -628,23 +622,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Merge_Intervals.java">
+    <entry file="file://$PROJECT_DIR$/src/a_3Sum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="59">
-          <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="29" />
+        <state relative-caret-position="450">
+          <caret line="25" column="15" selection-start-line="22" selection-start-column="41" selection-end-line="25" selection-end-column="15" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/a_3Sum.java">
+    <entry file="file://$PROJECT_DIR$/src/lib/LetAlgorithm.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        <state relative-caret-position="108">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dfs/Letter_Combinations_of_Phone_Number.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/logic.java" />
+    <entry file="file://$PROJECT_DIR$/src/logic/Next_Closest_Time.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="936">
+          <caret line="52" column="47" selection-start-line="52" selection-start-column="47" selection-end-line="52" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#141#142#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Alien_Dictionary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="83" column="14" selection-start-line="83" selection-start-column="14" selection-end-line="83" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/logic/Next_Permutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="44" column="7" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="7" />
         </state>
       </provider>
     </entry>
